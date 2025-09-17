@@ -1,4 +1,4 @@
-![1](img/github-header-banner.png)
+![1]([img/github-header-banner.png](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWQ2Z3RhM3dyY2gwN3BlMG96dzFmdGNxZWVvaG00NHJlcGJmd2xidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6svtbQ7765qqQ/giphy.gif))
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afif23170si-ui/afif23170si-ui/output/pacman-contribution-graph-dark.svg">
