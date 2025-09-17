@@ -1,5 +1,13 @@
 ###
 
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">👋 Hi, I'm Afif Ramadhan!<br>💻 Passionate about Fullstack Development & UI/UX design.<br>🌱 Currently learning React, Node.js, and exploring open-source projects.<br>🎯 Aim to build impactful projects and contribute to the developer community.</p>
+
+###
+
 <div align="center">
   <img width="500px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG44MHVnM2F1MGRrNnNkODVlaTZ4YmJxZGptbzU5MXllMWprYnl2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif"/>
 </div>
@@ -19,14 +27,6 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="25" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="25" alt="youtube logo"  />
 </div>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">👋 Hi, I'm Afif Ramadhan!<br>💻 Passionate about Fullstack Development & UI/UX design.<br>🌱 Currently learning React, Node.js, and exploring open-source projects.<br>🎯 Aim to build impactful projects and contribute to the developer community.</p>
 
 ###
 
