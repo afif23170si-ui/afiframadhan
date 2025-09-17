@@ -65,6 +65,4 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=afif23170si-ui&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
 </div>
 
----
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
