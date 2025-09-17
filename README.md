@@ -19,14 +19,6 @@
   </a>
 </div>
 
----
-
-<div align="center">
-  <img width="500px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG44MHVnM2F1MGRrNnNkODVlaTZ4YmJxZGptbzU5MXllMWprYnl2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF"/>
-</div>
-
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afif23170si-ui/afif23170si-ui/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afif23170si-ui/afif23170si-ui/output/pacman-contribution-graph.svg">
