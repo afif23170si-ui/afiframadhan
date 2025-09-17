@@ -19,6 +19,7 @@
   </a>
 </div>
 
+#
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afif23170si-ui/afif23170si-ui/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afif23170si-ui/afif23170si-ui/output/pacman-contribution-graph.svg">
