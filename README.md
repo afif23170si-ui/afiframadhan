@@ -25,8 +25,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/afif23170si-ui/afif23170si-ui/output/pacman-contribution-graph.svg">
 </picture>
 
----
-
 # 💻 Tech Stack
 <img src="https://skillicons.dev/icons?i=html,css,js,php" height="40" />
 
