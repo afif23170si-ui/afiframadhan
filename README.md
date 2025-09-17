@@ -1,9 +1,7 @@
-## 👩‍💻 About Me
+## 👩‍💻 Hey! Nice to see you
 <p align="left">
-  👋 Hi, I'm <b>Afif Ramadhan</b> <br>
-  💻 Passionate about <b>Fullstack Development</b> & <b>UI/UX design</b> <br>
-  🌱 Currently learning <b>React, Node.js</b>, and exploring open-source projects <br>
-  🎯 Aim to build impactful projects and contribute to the developer community
+Welcome to my page! <br>
+I'm <b>Afif Ramadhan,</b> Passionate about <b>Fullstack Development</b> & <b>UI/UX design.</b> Currently learning <b>React, Node.js</b>, and exploring open-source projects. Aim to build impactful projects and contribute to the developer community
 </p>
 
 ## 🌐 Connect with Me
