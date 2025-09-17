@@ -65,10 +65,4 @@
 
 ---
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=afif23170si-ui&icon=0&color=0" alt="Profile Visit Count"/>
-</div>
-
----
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
