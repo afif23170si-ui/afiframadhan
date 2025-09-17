@@ -1,4 +1,5 @@
 ![1](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWQ2Z3RhM3dyY2gwN3BlMG96dzFmdGNxZWVvaG00NHJlcGJmd2xidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6svtbQ7765qqQ/giphy.gif)
+![2](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWR0bTh3ZjZhdGF3ajJsb2xvazk5Y2d5ZTV5ODNpeGRkejFnejN6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HjoS1MLAm0U6c/giphy.gif)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afif23170si-ui/afif23170si-ui/output/pacman-contribution-graph-dark.svg">
