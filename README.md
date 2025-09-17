@@ -1,7 +1,8 @@
 ## 👩‍💻 Hey! Nice to see you
+
 <p align="left">
 Welcome to my page! <br>
-I'm <b>Afif Ramadhan,</b> Passionate about <b>Fullstack Development</b> & <b>UI/UX design.</b> Currently learning <b>React, Node.js</b>, and exploring open-source projects. Aim to build impactful projects and contribute to the developer community
+I'm <b>Afif Ramadhan,</b> Passionate about <b>Fullstack Development</b> & <b>UI/UX design.</b> Currently learning <b>React, Node.js</b>, and exploring open-source projects. Aim to build impactful projects and contribute to the developer community.
 </p>
 
 <picture>
@@ -11,6 +12,7 @@ I'm <b>Afif Ramadhan,</b> Passionate about <b>Fullstack Development</b> & <b>UI/
 </picture>
 
 ## 🌐 Connect with Me
+
 <div align="left">
   <a href="https://linkedin.com/in/afifrmdhn" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
@@ -24,9 +26,11 @@ I'm <b>Afif Ramadhan,</b> Passionate about <b>Fullstack Development</b> & <b>UI/
 </div> <br>
 
 ## 💻 Tech Stack
-<img src="https://skillicons.dev/icons?i=html,css,js,php" height="40" />
-
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
