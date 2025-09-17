@@ -1,4 +1,4 @@
-![Gif](https://cdn.pixabay.com/animation/2025/08/06/06/37/06-37-33-94_512.gif; )
+![Sunset](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGpyeTkyd213OHBkZnFnNmhnejIxZTdyd3Iya2Mybm1nM2h6cWxyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2FCYpEmEcjIje/giphy.gif)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afif23170si-ui/afif23170si-ui/output/pacman-contribution-graph-dark.svg">
