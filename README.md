@@ -1,5 +1,4 @@
-<h2 align="left">👩‍💻 About Me</h2>
-
+## 👩‍💻 About Me
 <p align="left">
   👋 Hi, I'm <b>Afif Ramadhan</b> <br>
   💻 Passionate about <b>Fullstack Development</b> & <b>UI/UX design</b> <br>
@@ -7,6 +6,7 @@
   🎯 Aim to build impactful projects and contribute to the developer community
 </p>
 
+## 🌐 Connect with Me
 <div align="left">
   <a href="https://linkedin.com/in/afifrmdhn" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
