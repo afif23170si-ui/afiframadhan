@@ -1,3 +1,18 @@
+<div align="left">
+  <a href="https://linkedin.com/in/afifrmdhn" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="20" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@AfifRamadhan-k7j" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="20" alt="youtube logo"  />
+  </a>
+  <a href="https://instagram.com/aafif.r" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="20" alt="instagram logo"  />
+  </a>
+  <a href="https://wa.me/6281364485205" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="20" alt="whatsapp logo"  />
+  </a>
+</div>
+
 ## 👩‍💻 Hey! Nice to see you
 
 <p align="left">
@@ -11,7 +26,7 @@ I'm <b>Afif Ramadhan,</b> Passionate about <b>Fullstack Development</b> & <b>UI/
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/afif23170si-ui/afif23170si-ui/output/pacman-contribution-graph.svg">
 </picture>
 
-## 🌐 Connect with Me
+<!-- ## 🌐 Connect with Me
 
 <div align="left">
   <a href="https://linkedin.com/in/afifrmdhn" target="_blank">
@@ -23,7 +38,7 @@ I'm <b>Afif Ramadhan,</b> Passionate about <b>Fullstack Development</b> & <b>UI/
   <a href="https://youtube.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="25" alt="youtube logo" />
   </a>
-</div> <br>
+</div> <br> -->
 
 ## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
