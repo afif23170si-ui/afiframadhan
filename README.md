@@ -4,6 +4,12 @@ Welcome to my page! <br>
 I'm <b>Afif Ramadhan,</b> Passionate about <b>Fullstack Development</b> & <b>UI/UX design.</b> Currently learning <b>React, Node.js</b>, and exploring open-source projects. Aim to build impactful projects and contribute to the developer community
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afif23170si-ui/afif23170si-ui/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afif23170si-ui/afif23170si-ui/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/afif23170si-ui/afif23170si-ui/output/pacman-contribution-graph.svg">
+</picture>
+
 ## 🌐 Connect with Me
 <div align="left">
   <a href="https://linkedin.com/in/afifrmdhn" target="_blank">
@@ -16,12 +22,6 @@ I'm <b>Afif Ramadhan,</b> Passionate about <b>Fullstack Development</b> & <b>UI/
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="25" alt="youtube logo" />
   </a>
 </div> <br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afif23170si-ui/afif23170si-ui/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afif23170si-ui/afif23170si-ui/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/afif23170si-ui/afif23170si-ui/output/pacman-contribution-graph.svg">
-</picture>
 
 ## 💻 Tech Stack
 <img src="https://skillicons.dev/icons?i=html,css,js,php" height="40" />
