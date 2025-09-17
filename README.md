@@ -25,7 +25,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/afif23170si-ui/afif23170si-ui/output/pacman-contribution-graph.svg">
 </picture>
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 <img src="https://skillicons.dev/icons?i=html,css,js,php" height="40" />
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
