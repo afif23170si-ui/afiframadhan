@@ -1,7 +1,7 @@
 ###
 
 <div align="center">
-  <img width="800px" src="https://www.pexels.com/download/video/3129540/"/>
+  <img width="800px" src="https://cdn.pixabay.com/animation/2023/03/17/02/19/02-19-19-487_512.gif"/>
 </div>
 
 ###
