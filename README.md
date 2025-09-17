@@ -55,7 +55,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afif23170si-ui&theme=dark&layout=compact" height="150" alt="languages graph"/>
 </div>
 
----
+<div align="center">
+  <img width="500px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG44MHVnM2F1MGRrNnNkODVlaTZ4YmJxZGptbzU5MXllMWprYnl2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif"/>
+</div>
 
 <h2 align="left">🔝 Top Contributed Repositories</h2>
 
