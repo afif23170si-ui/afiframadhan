@@ -17,9 +17,8 @@
   <a href="https://youtube.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="25" alt="youtube logo" />
   </a>
-</div>
+</div> <br>
 
-#
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afif23170si-ui/afif23170si-ui/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afif23170si-ui/afif23170si-ui/output/pacman-contribution-graph.svg">
