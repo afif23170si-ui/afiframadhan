@@ -1,7 +1,7 @@
 ###
 
 <div align="center">
-  <img width="800px" src="https://cdn.pixabay.com/animation/2023/03/17/02/19/02-19-19-487_512.gif"/>
+  <img width="500px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG44MHVnM2F1MGRrNnNkODVlaTZ4YmJxZGptbzU5MXllMWprYnl2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif"/>
 </div>
 
 ###
