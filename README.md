@@ -1,12 +1,11 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afif23170si-ui/afif23170si-ui/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afif23170si-ui/afif23170si-ui/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/afif23170si-ui/afif23170si-ui/output/pacman-contribution-graph.svg">
-</picture>
+<h3  align="left">👩‍💻  About Me</h3>
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-<p align="left">👋 Hi, I'm Afif Ramadhan!<br>💻 Passionate about Fullstack Development & UI/UX design.<br>🌱 Currently learning React, Node.js, and exploring open-source projects.<br>🎯 Aim to build impactful projects and contribute to the developer community.</p>
+<p align="left">
+  👋 Hi, I'm Afif Ramadhan!<br>
+  💻 Passionate about Fullstack Development & UI/UX design.<br>
+  🌱 Currently learning React, Node.js, and exploring open-source projects.<br>
+  🎯 Aim to build impactful projects and contribute to the developer community.
+</p>
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
@@ -19,6 +18,12 @@
 <div align="center">
   <img width="500px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG44MHVnM2F1MGRrNnNkODVlaTZ4YmJxZGptbzU5MXllMWprYnl2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif"/>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afif23170si-ui/afif23170si-ui/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afif23170si-ui/afif23170si-ui/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/afif23170si-ui/afif23170si-ui/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
